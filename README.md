@@ -16,6 +16,6 @@
 
 [Урок 8](V3Vanity.github.io/lesson_8/)
 
-[Урок 9](V3Vanity.github.io/lesson_9/scr)
+[Урок 9](V3Vanity.github.io/lesson_9/)
 
-[Урок 10](V3Vanity.github.io/lesson_10/css)
+[Урок 10](V3Vanity.github.io/lesson_10/)
