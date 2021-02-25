@@ -2,6 +2,12 @@
 # Головин Дмитрий
 Мои домашки!  :з
 
+[Урок 2](V3Vanity.github.io/lesson_2/)
+
+[Урок 3](V3Vanity.github.io/lesson_3/)
+
+[Урок 4](V3Vanity.github.io/lesson_4/)
+
 [Урок 5](V3Vanity.github.io/lesson_5/)
 
 [Урок 6](V3Vanity.github.io/lesson_6/)
