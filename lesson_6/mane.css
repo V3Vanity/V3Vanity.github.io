@@ -1,0 +1,43 @@
+* {
+	box-sizing: border-box;
+}
+
+.box {
+	width: 100%;
+	background-color: black;
+	height: 80px;
+	position: fixed;
+left:0;
+top:0;
+}
+
+p {
+	margin-top: 65px;
+}
+
+a {
+	color:white;
+	font-size:20px;
+	}
+
+li {
+	display: inline-block;
+	width: 120px;
+	height: 60px;
+	overflow: hidden;
+	margin-left: -4px;
+}
+ul {
+  float: right;
+}
+
+
+.logo {
+	float: left;
+	margin: 10px 40px;
+	font-size: 40px; 
+}
+
+.info {
+	width: 70px;
+}

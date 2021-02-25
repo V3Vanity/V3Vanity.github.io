@@ -1,0 +1,46 @@
+body{
+	background-color: #FFE4E1;
+}
+
+h1, h2, h3, h4{
+	text-align: center;
+	color:#9932CC;
+}
+	.center-img{
+  display: block;
+  margin: 0 auto;
+}
+
+.ogl{
+	display: block;
+	text-align: center;
+	color:#191970;
+
+}
+p{
+	color:black;
+	text-align: justify;
+}
+.ramka{
+	border: 5px solid #4B0082;
+}
+#block-1, #block-2, #block-3, #block-4{
+	border:5px solid #4B0082;
+}
+
+.style{
+	font-weight: bold;
+}
+.style1{
+	font-style: italic;
+}
+.style3{
+	text-decoration: line-through;
+}
+.style4{
+	text-decoration:underline;
+}
+.style5{
+	font-family:Arial;
+	font-style:italic;
+}
