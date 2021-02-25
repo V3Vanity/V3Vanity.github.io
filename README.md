@@ -18,4 +18,4 @@
 
 [Урок 9](V3Vanity.github.io/lesson_9/src/)
 
-[Урок 10](V3Vanity.github.io/lesson_10/)
+[Урок 10](V3Vanity.github.io/lesson_10/css/)
