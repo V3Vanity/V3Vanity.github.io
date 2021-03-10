@@ -21,3 +21,7 @@
 [Урок 10](V3Vanity.github.io/lesson_10/css/)
 
 [Урок 13](V3Vanity.github.io/lesson_13/)
+
+[Практика 1](V3Vanity.github.io/practice_1/src/)
+
+[Добавление шрифтов](V3Vanity.github.io/connecting fonts/)
