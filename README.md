@@ -24,4 +24,4 @@
 
 [Практика 1](V3Vanity.github.io/practice_1/src/)
 
-[Добавление шрифтов](V3Vanity.github.io/connecting fonts/) 
+[Добавлениешрифтов](V3Vanity.github.io/connecting fonts/) 
