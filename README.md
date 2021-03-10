@@ -25,3 +25,5 @@
 [Практика 1](V3Vanity.github.io/practice_1/src/)
 
 [Шрифты](V3Vanity.github.io/connecting fonts/ "Добавление шрифтов")
+
+[Текст ссылки](адрес "Описание")
