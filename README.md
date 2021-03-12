@@ -27,3 +27,4 @@
 [Шрифты](V3Vanity.github.io/connecting_fonts/ "Добавление шрифтов")
 
 
+[Практика 2](V3Vanity.github.io/practice_2/src/)
