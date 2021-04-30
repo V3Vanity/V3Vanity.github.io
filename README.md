@@ -30,4 +30,4 @@
 
 [Практика 3](V3Vanity.github.io/practice_3/src/)
 
-[Практика 4](V3Vanity.github.io/practice_4/src/)
+[Практика 4. ](V3Vanity.github.io/practice_4/src/) 
