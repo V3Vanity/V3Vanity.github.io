@@ -28,7 +28,8 @@ a:hover {
 }
 button:focus,
 input:focus,
-a:focus {
+a:focus,
+textarea:focus {
   outline: none;
 }
 .button {
@@ -123,6 +124,7 @@ section {
   display: block;
   margin: 2rem 0;
   width: 100%;
+  border-radius: 5px;
   border: 1px solid #dddddd;
   padding: 1.5rem;
 }
@@ -215,6 +217,49 @@ section {
   background: url(../img/left-arrow.svg) center no-repeat;
   background-size: 70%;
   right: 0;
+}
+/*Оформление всплывающих окон*/
+.popup {
+  display: none;
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.popup-content {
+  position: fixed;
+  left: 50%;
+  top: 10%;
+  background-color: #ffffff;
+  -webkit-transform: translate(-50%);
+          transform: translate(-50%);
+  padding: 4rem 7rem;
+}
+.popup-form {
+  margin-top: 2rem;
+  padding: 0;
+}
+.popup-close {
+  position: absolute;
+  top: -1.5rem;
+  right: -2rem;
+  width: 2rem;
+  text-align: center;
+  border: none;
+  background-color: transparent;
+  font-size: 3rem;
+  color: #ffffff;
+}
+.popup-content {
+  text-align: center;
+}
+.popup-header {
+  font-family: 'ProximaNova_boild', sans-serif;
 }
 @media (max-width: 991px) {
   .main {
